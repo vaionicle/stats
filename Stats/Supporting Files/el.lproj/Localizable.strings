@@ -1,0 +1,303 @@
+//
+//  Localizable.strings
+//  Stats
+//
+//  Created by Serhiy Mytrovtsiy on 27/08/2020.
+//  Using Swift 5.0.
+//  Running on macOS 10.15.
+//
+//  Copyright © 2020 Serhiy Mytrovtsiy. All rights reserved.
+//
+
+// Modules
+"CPU" = "Κεντρικός επεξεργαστής";
+"Open CPU settings" = "Άνοιξε τις ρυθμίσεις του κεντρικού επεξεργαστή";
+"GPU" = "Επεξεργαστής γραφικών";
+"Open GPU settings" = "Άνοιξε τις ρυθμίσεις του επεξεργαστή γραφικών";
+"RAM" = "Προσωρινή Μνήμη";
+"Open RAM settings" = "Άνοιξε τις ρυθμίσεις της προσωρινής μνήμη";
+"Disk" = "Disk";
+"Open Disk settings" = "Άνοιξε τις ρυθμίσεις του σκληρού δίσκου";
+"Sensors" = "Sensors";
+"Open Sensors settings" = "Άνοιξε τις ρυθμίσεις του sensors";
+"Fans" = "Fans";
+"Open Fans settings" = "Άνοιξε τις ρυθμίσεις του fans";
+"Network" = "Δικτυο";
+"Open Network settings" = "Άνοιξε τις ρυθμίσεις του δικτύου";
+"Battery" = "Μπαταρία";
+"Open Battery settings" = "Άνοιξε τις ρυθμίσεις της μπαταρίας";
+"Bluetooth" = "Bluetooth";
+"Open Bluetooth settings" = "Άνοιξε τις ρυθμίσεις του bluetooth";
+
+// Words
+"Unknown" = "Άγνωστο";
+"Version" = "Έκδοση";
+"Processor" = "Επεξεργαστής";
+"Memory" = "Μνήμη";
+"Graphics" = "Γραφικά";
+"Close" = "Κλείσιμο";
+"Download" = "Download";
+"Install" = "Εγκατάσταση";
+"Cancel" = "Ακύρωση";
+"Unavailable" = "Μη διαθέσιμο";
+"Yes" = "Ναι";
+"No" = "Όχι";
+"Automatic" = "Αυτόματο";
+"Manual" = "Χειροκίνητο";
+"None" = "None";
+"Dots" = "Dots";
+"Arrows" = "Βελάκια";
+"Characters" = "Character";
+"Short" = "Short";
+"Long" = "Long";
+"Statistics" = "Στατιστικά";
+"Max" = "Μέγιστο";
+"Min" = "Ελάχιστο";
+"Reset" = "Αρχικοποίηση";
+"Alignment" = "Στοίχιση";
+"Left alignment" = "Αριστερά";
+"Center alignment" = "Κεντρο";
+"Right alignment" = "Δεξιά";
+"Dashboard" = "Dashboard";
+"Disabled" = "Disabled";
+"Silent" = "Silent";
+
+// Alerts
+"New version available" = "New version available";
+"Click to install the new version of Stats" = "Click to install the new version of Stats";
+"Successfully updated" = "Successfully updated";
+"Stats was updated to v" = "Stats was updated to v%0";
+
+// Settings
+"Open Activity Monitor" = "Open Activity Monitor";
+"Report a bug" = "Αναφορά σφάλματος";
+"Support the application" = "Support the application";
+"Close application" = "Κλείσιμο εφαρμογής";
+"Open application settings" = "Open application settings";
+"Open dashboard" = "Open dashboard";
+
+// Application settings
+"Update application" = "Αναβάθμιση εφαρμογής";
+"Check for updates" = "Check for updates";
+"At start" = "At start";
+"Once per day" = "Once per day";
+"Once per week" = "Once per week";
+"Once per month" = "Once per month";
+"Never" = "Never";
+"Check for update" = "Check for update";
+"Show icon in dock" = "Show icon in dock";
+"Start at login" = "Start at login";
+
+// Dashboard
+"Serial number" = "Σειριακός αριθμός";
+"Uptime" = "Uptime";
+"Number of cores" = "%0 cores";
+"Number of threads" = "%0 threads";
+
+// Update
+"The latest version of Stats installed" = "The latest version of Stats is installed";
+"Downloading..." = "Downloading...";
+"Current version: " = "Current version:  ";
+"Latest version: " = "Latest version:    ";
+
+// Widgets
+"Color" = "Color";
+"Label" = "Label";
+"Box" = "Box";
+"Frame" = "Frame";
+"Value" = "Value";
+"Colorize" = "Colorize";
+"Colorize value" = "Colorize value";
+"Additional information" = "Additional information";
+"Reverse values order" = "Reverse values order";
+"Base" = "Base";
+"Display mode" = "View mode";
+"One row" = "One row";
+"Two rows" = "Two rows";
+"Mini widget" = "Mini";
+"Line chart widget" = "Line chart";
+"Bar chart widget" = "Bar chart";
+"Pie chart widget" = "Pie chart";
+"Network chart widget" = "Network chart";
+"Speed widget" = "Speed";
+"Battery widget" = "Battery";
+"Text widget" = "Text";
+"Memory widget" = "Memory";
+"Static width" = "Static width";
+"Tachometer widget" = "Tachometer";
+"Show symbols" = "Show symbols";
+"Label widget" = "Label";
+"Number of reads in the chart" = "Number of reads in the chart";
+"Color of download" = "Color of download";
+"Color of upload" = "Color of upload";
+
+// Module Kit
+"Open module settings" = "Open module settings";
+"Select widget" = "Select %0 widget";
+"Open widget settings" = "Open widget settings";
+"Update interval" = "Update interval";
+"Usage history" = "Usage history";
+"Details" = "Details";
+"Top processes" = "Top processes";
+"Pictogram" = "Pictogram";
+"Module settings" = "Module settings";
+"Widget settings" = "Widget settings";
+
+// Modules
+"Number of top processes" = "Number of top processes";
+"Update interval for top processes" = "Update interval for top processes";
+
+// CPU
+"CPU usage" = "CPU usage";
+"CPU temperature" = "CPU temperature";
+"CPU frequency" = "CPU frequency";
+"System" = "System";
+"User" = "User";
+"Idle" = "Idle";
+"Show usage per core" = "Show usage per core";
+"Show hyper-threading cores" = "Show hyper-threading cores";
+"Split the value (System/User)" = "Split the value (System/User)";
+"Scheduler limit" = "Scheduler limit";
+"Speed limit" = "Speed limit";
+"Average load" = "Average load";
+"1 minute" = "1 minute";
+"5 minutes" = "5 minutes";
+"15 minutes" = "15 minutes";
+
+// GPU
+"GPU to show" = "GPU to show";
+"Show GPU type" = "Show GPU type";
+"GPU enabled" = "GPU enabled";
+"GPU disabled" = "GPU disabled";
+"GPU temperature" = "GPU temperature";
+"GPU utilization" = "GPU utilization";
+"Vendor" = "Vendor";
+"Model" = "Model";
+"Status" = "Status";
+"Active" = "Active";
+"Non active" = "Non active";
+"Fan speed" = "Fan speed";
+"Core clock" = "Core clock";
+"Memory clock" = "Memory clock";
+"Utilization" = "Utilization";
+"Render utilization" = "Render utilization";
+"Tiler utilization" = "Tiler utilization";
+
+// RAM
+"Memory usage" = "Memory usage";
+"Memory pressure" = "Memory pressure";
+"Total" = "Total";
+"Used" = "Used";
+"App" = "App";
+"Wired" = "Wired";
+"Compressed" = "Compressed";
+"Free" = "Free";
+"Swap" = "Swap";
+"Split the value (App/Wired/Compressed)" = "Split the value (App/Wired/Compressed)";
+
+// Disk
+"Show removable disks" = "Show removable disks";
+"Used disk memory" = "%0 of %1 used";
+"Free disk memory" = "%0 of %1 free";
+"Disk to show" = "Disk to show";
+"Open disk" = "Open disk";
+"Switch view" = "Switch view";
+
+// Sensors
+"Temperature unit" = "Temperature unit";
+"Celsius" = "Celsius";
+"Fahrenheit" = "Fahrenheit";
+"Save the fan speed" = "Save the fan speed";
+"Fan" = "Fan";
+"HID sensors" = "HID sensors";
+
+// Network
+"Uploading" = "Upload";
+"Downloading" = "Download";
+"Public IP" = "Public IP";
+"Local IP" = "Local IP";
+"Interface" = "Interface";
+"Physical address" = "Physical address";
+"Refresh" = "Refresh";
+"Click to copy public IP address" = "Click to copy public IP address";
+"Click to copy local IP address" = "Click to copy local IP address";
+"Click to copy wifi name" = "Click to copy wifi name";
+"Click to copy mac address" = "Click to copy mac address";
+"No connection" = "No connection";
+"Network interface" = "Network interface";
+"Total download" = "Total download";
+"Total upload" = "Total upload";
+"Reader type" = "Reader type";
+"Interface based" = "Interface based";
+"Processes based" = "Process based";
+"Reset data usage" = "Reset data usage";
+"VPN mode" = "VPN mode";
+
+// Battery
+"Level" = "Level";
+"Source" = "Source";
+"AC Power" = "AC Power";
+"Battery Power" = "Battery Power";
+"Time" = "Time";
+"Health" = "Health";
+"Amperage" = "Amperage";
+"Voltage" = "Voltage";
+"Cycles" = "Cycles";
+"Temperature" = "Temperature";
+"Power adapter" = "Power adapter";
+"Power" = "Power";
+"Is charging" = "Is charging";
+"Time to discharge" = "Time to discharge";
+"Time to charge" = "Time to charge";
+"Calculating" = "Calculating";
+"Fully charged" = "Fully charged";
+"Not connected" = "Not connected";
+"Low level notification" = "Low level notification";
+"High level notification" = "High level notification";
+"Low battery" = "Low battery";
+"High battery" = "High battery";
+"Battery remaining" = "%0% remaining";
+"Battery remaining to full charge" = "%0% to full charge";
+"Percentage" = "Percentage";
+"Percentage and time" = "Percentage and time";
+"Time and percentage" = "Time and percentage";
+"Time format" = "Time format";
+"Hide additional information when full" = "Hide additional information when full";
+"Last charge" = "Last charge";
+"Capacity" = "Capacity";
+"maximum / designed" = "maximum / designed";
+
+// Bluetooth
+"Battery to show" = "Battery to show";
+
+// Colors
+"Based on utilization" = "Based on utilization";
+"Based on pressure" = "Based on pressure";
+"System accent" = "System accent";
+"Monochrome accent" = "Monochrome accent";
+"Clear" = "Clear";
+"White" = "Λευκο";
+"Black" = "Μαυρο";
+"Gray" = "Γκρι";
+"Second gray" = "Δευτερο γκρι";
+"Dark gray" = "Σκουρο γκρι";
+"Light gray" = "Ανοιχτο γκρι";
+"Red" = "Κοκκινο";
+"Second red" = "Δεύτερο κόκκινο";
+"Green" = "Πράσινο";
+"Second green" = "Δεύτερο πράσινο";
+"Blue" = "Μπλέ";
+"Second blue" = "Δεύτερο μπλέ";
+"Yellow" = "Κίτρινο";
+"Second yellow" = "Δεύτερο κίτρινο";
+"Orange" = "Πορτοκαλί";
+"Second orange" = "Δεύτερο πορτοκαλί";
+"Purple" = "Μωβ";
+"Second purple" = "Δεύτερο μωβ";
+"Brown" = "Καφε";
+"Second brown" = "Δεύτερο καφέ";
+"Cyan" = "Cyan";
+"Magenta" = "Magenta";
+"Pink" = "Ροζ";
+"Teal" = "Teal";
+"Indigo" = "Indigo";
